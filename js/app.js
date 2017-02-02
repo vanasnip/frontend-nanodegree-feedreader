@@ -23,6 +23,7 @@ var allFeeds = [
     }
 ];
 
+console.log(allFeeds[0].url);
 /* This function starts up our application. The Google Feed
  * Reader API is loaded asynchonously and will then call this
  * function when the API is loaded.
